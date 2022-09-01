@@ -4,3 +4,4 @@
 
 - [Ajiroghene Sunny](https://github.com/Ajioz)
 - [MaryBlessing Umeh](https://github.com/marybngozi)
+- [Mubarak Mustapha](https://github.com/mako-commits)
