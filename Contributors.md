@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Ajiroghene Sunny](https://github.com/Ajioz)
+- [Adetola Oyebode](https://github.com/ybdtola)
 - [Uchenna Egbo](https://github.com/yuhcee)
 - [MaryBlessing Umeh](https://github.com/marybngozi)
 - [Nyamekesse Samuel](https://github.com/Nyamekesse)
