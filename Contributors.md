@@ -10,3 +10,4 @@
 - [Nyamekesse Samuel](https://github.com/Nyamekesse)
 - [Mubarak Mustapha](https://github.com/mako-commits)
 - [Frank David Addae](https://github.com/frankdavid-addae)
+- [Adewale Tosin](https://github.com/tosmel2)
